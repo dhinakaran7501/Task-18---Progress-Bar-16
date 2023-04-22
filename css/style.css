@@ -1,0 +1,45 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.main_container{
+    margin: 130px 30px;
+	width:95%;
+	border:1px solid;
+	background-color:#f4e9e9;
+	border-radius:14px;
+}
+h2{
+	text-align:center;
+	color:black;
+}
+.sub_container{
+	width: 98%;
+    height: 25px;
+    border: 1px solid;
+    border-radius: 4px;
+	background-color:#EBF1E1;
+	overflow:hidden;
+    margin: 20px auto;
+}
+.btn_primary{
+	width:25%;
+	height:30px;
+	background-color:blue;
+}
+.btn_danger{
+	width:50%;
+	height:30px;
+	background-color:red;
+}
+.btn_success{
+	width:75%;
+	height:30px;
+	background-color:green;
+}
+.btn_warning{
+	width:95%;
+	height:30px;
+	background-color:yellow;
+}
